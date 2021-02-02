@@ -110,7 +110,7 @@ namespaced.variable/x
 ```
 
 ### Functions
-
+ 
 ``` clojure
 (fn [a b] (+ a b))
 
